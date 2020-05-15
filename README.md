@@ -6,6 +6,6 @@ This is the front-end of mobile app of Be the Hero. The back-end is the same of 
 Some screens of the app:
 ![Img-1](https://github.com/FlechitUp/be-the-hero-app/blob/master/screens/1.jpeg)
 
-![Img-2](https://github.com/FlechitUp/be-the-hero-app/blob/master/screens/2.jpeg)
+![Img-2](https://github.com/FlechitUp/be-the-hero-app/blob/master/screens/2.jpeg | width=100)
 
 ![Img-3](https://github.com/FlechitUp/be-the-hero-app/blob/master/screens/3.jpeg)
